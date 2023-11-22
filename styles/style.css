@@ -35,8 +35,8 @@
 }
 
 .header__logo {
-  max-width: 135px;
-  max-height: 130px;
+  width: 135px;
+  height: 130px;
   margin-right: 148px;
   margin-top: 24px;
 }
